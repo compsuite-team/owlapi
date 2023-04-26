@@ -40,7 +40,7 @@
 		<dependency><groupId>org.eclipse.rdf4j</groupId><artifactId>rdf4j-rio-binary</artifactId><version>${inherited.rdf4j.version}</version></dependency>
 		<dependency><groupId>org.eclipse.rdf4j</groupId><artifactId>rdf4j-rio-n3</artifactId><version>${inherited.rdf4j.version}</version></dependency>
 		<dependency><groupId>org.eclipse.rdf4j</groupId><artifactId>rdf4j-rio-nquads</artifactId><version>${inherited.rdf4j.version}</version></dependency>
-		<dependency><groupId>org.eclipse.rdf4j</groupId><artifactId>rdf4j-rio-ntriples</artifactId><version>${inherited.rdf4j.version}</version></dependency>
+		<dependency><groupId>org.eclipse.rdf4j</groupId><artifactId>rdf4j-rio-ntriples</artifactId><version>3.1.0-M1</version></dependency>
 		<dependency><groupId>org.eclipse.rdf4j</groupId><artifactId>rdf4j-rio-rdfjson</artifactId><version>${inherited.rdf4j.version}</version></dependency>
 		<dependency><groupId>org.eclipse.rdf4j</groupId><artifactId>rdf4j-rio-jsonld</artifactId><version>${inherited.rdf4j.version}</version></dependency>
 		<dependency><groupId>org.eclipse.rdf4j</groupId><artifactId>rdf4j-rio-rdfxml</artifactId><version>${inherited.rdf4j.version}</version></dependency>
